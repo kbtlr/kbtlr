@@ -9,9 +9,9 @@ in robotics, ML, and full-stack development.
 🧠 **Machine Learning** — Neural networks and real-world applications
 
 ## Featured Projects
-- **[ROS-Dijkstra](link)** — Optimized pathfinding for robots
-- **[Gym-analytics-app](link)** — Full-stack fitness tracking platform  
-- **[Mass-Transit-Billing-System](link)** — Real-world billing logic
+- **[ROS-Dijkstra](https://github.com/kbtlr/ROS-Dijkstra)** — Optimized pathfinding for robots
+- **[Gym-analytics-app](https://github.com/kbtlr/Gym-analytics-app)** — Full-stack fitness tracking platform  
+- **[Mass-Transit-Billing-System](https://github.com/kbtlr/Mass-Transit-Billing-System)** — Real-world billing logic
 
 ## Skills
 **Languages:** Python, JavaScript, C++
