@@ -4,9 +4,11 @@ I'm Kyle, a **Russell Group Robotics graduate** building projects
 in robotics, ML, and full-stack development.
 
 ## Current Focus
-🤖 **Robotics & Algorithms** — Optimizing pathfinding for autonomous systems
-💻 **Full-Stack Development** — Building Gym-analytics app (Python backend + React frontend)
-🧠 **Machine Learning** — Neural networks and real-world applications
+**Robotics & Algorithms** — Optimizing pathfinding for autonomous systems
+
+**Full-Stack Development** — Building Gym-analytics app (Python backend + React frontend)
+
+**Machine Learning** — Neural networks and real-world applications
 
 ## Featured Projects
 - **[ROS-Dijkstra](https://github.com/kbtlr/ROS-Dijkstra)** — Optimized pathfinding for robots
