@@ -1,23 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-My name is Kyle, a Russell Group Robotics graduate interested in all things Engineering, from Robotics and Software to Electrical and Mechanical!
+I'm Kyle, a **Russell Group Robotics graduate** building projects 
+in robotics, ML, and full-stack development.
 
-- 🔭 I’m currently working on ways to further optimise my recently finished ROS Dijkstra algorithm. 
-- 🌱 I’m currently learning Javascript in anticipation of development on my Gym Analytics web app.
-- 📫 Feel free to reach out to me at ky.butler1210@gmail.com.
-- ⚡ Fun fact: I teach Jiu Jitsu when I'm not hunched over a computer!
+## Current Focus
+🤖 **Robotics & Algorithms** — Optimizing pathfinding for autonomous systems
+💻 **Full-Stack Development** — Building Gym-analytics app (Python backend + React frontend)
+🧠 **Machine Learning** — Neural networks and real-world applications
 
-<!--
-**kbtlr/kbtlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured Projects
+- **[ROS-Dijkstra](link)** — Optimized pathfinding for robots
+- **[Gym-analytics-app](link)** — Full-stack fitness tracking platform  
+- **[Mass-Transit-Billing-System](link)** — Real-world billing logic
 
-Here are some ideas to get you started:
+## Skills
+**Languages:** Python, JavaScript, C++
+**Frameworks:** ROS, Flask, React (learning)
+**Tools:** Git, Docker, NumPy, TensorFlow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Learning
+- JavaScript/React for modern web frontends
+- Advanced data structures for robotics
+- Production-grade code practices
+
+📫 [Email](mailto:ky.butler1210@gmail.com) | [LinkedIn](linkedin.com/...) | [LeetCode](leetcode.com/...)
