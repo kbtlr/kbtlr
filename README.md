@@ -25,4 +25,4 @@ in robotics, ML, and full-stack development.
 - Advanced data structures for robotics
 - Production-grade code practices
 
-📫 [Email](mailto:ky.butler1210@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kyle-butler-952674238/) | [LeetCode](https://leetcode.com/u/XR1TU5Qqj5/)
+[Email](mailto:ky.butler1210@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kyle-butler-952674238/) | [LeetCode](https://leetcode.com/u/XR1TU5Qqj5/)
